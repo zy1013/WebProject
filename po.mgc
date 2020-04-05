@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="PO.UUMessage" x="243" y="366">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.RecommendMovie" x="242" y="168">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.Action" x="108" y="44">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.Tag" x="411" y="44">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.UserLoginData" x="505" y="122">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.Movie" x="104" y="154">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.User" x="383" y="208">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.UserAction" x="395" y="375">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.UserMovie" x="519" y="249">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.UURelation" x="512" y="372">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.Channel" x="232" y="42">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="PO.Request" x="244" y="263">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>

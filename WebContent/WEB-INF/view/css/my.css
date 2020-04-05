@@ -1,0 +1,81 @@
+#registerform {
+	margin: 10%;
+	padding: 10%;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#registerform :hover {
+	background-color: #F7F7F7;
+}
+#banner
+{
+	width: 79%;
+	height: 20%;
+}
+#mainpage {
+	margin-left: 10%;
+	margin-right: 10%;
+
+	padding: 10%;
+	width: 80%;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+}
+
+.block {
+	height: 200px;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+}
+.smallblock{
+	
+	
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+}
+#content{
+	margin-left: 25%;
+	margin-right: 3%;
+	margin-top: 0%;
+	padding: 2%;
+	display: inline;
+	width: 60%;
+	height: 60%;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:80%;
+    width:20%;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:70%;
+    height:80%;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<title>header</title>
+</head>
+    <body>
+    		<header>
+    			header
+    		</header>
+    		<div id="rightmenu">
+			<div class="menu">功能1</div>
+			<div class="menu">功能2</div>
+			<div class="menu">功能3</div>
+			<div class="menu">功能4</div>
+			<div class="menu">功能5</div>
+		</div>
+    		<p>test</p>
+    		<div id="mainpage">
+    			<div id="recommendList">
+				<table id="tfhover" class="tftable" border="1">
+					<tr>
+						<td><div id = "r1">Row:1 Cell:1</div></td>
+						<td>Row:1 Cell:2</td>
+						<td>Row:1 Cell:3</td></tr>
+					<tr>
+						<td>Row:2 Cell:1</td>
+						<td>Row:2 Cell:2</td>
+						<td>Row:2 Cell:3</td></tr>
+				</table>
+
+    			</div>
+    		</div>
+ 	</body>
+ 	<script>
+window.oncontextmenu=function(e){
+//取消默认的浏览器自带右键 很重要！！
+e.preventDefault();
+
+//获取我们自定义的右键菜单
+var menu=document.querySelector("#rightmenu");
+
+//根据事件对象中鼠标点击的位置，进行定位
+menu.style.left=e.clientX+'px';
+menu.style.top=e.clientY+'px';
+
+//改变自定义菜单的宽，让它显示出来
+menu.style.width='125px';
+}
+//关闭右键菜单，很简单
+window.onclick=function(e){
+//用户触发click事件就可以关闭了，因为绑定在window上，按事件冒泡处理，不会影响菜单的功能
+　　　　document.querySelector('#rightmenu').style.width=0;
+}
+$("p").click(function(){
+    alert();// 动作触发后执行的代码!!
+});
+
+ 	</script>
+ 	<style>
+ #rightmenu{
+width: 0; /*设置为0 隐藏自定义菜单*/
+height: 125px;
+overflow: hidden; /*隐藏溢出的元素*/
+box-shadow: 0 1px 1px #888,1px 0 1px #ccc;
+position: absolute; /*自定义菜单相对与body元素进行定位*/
+}
+.menu{
+width: 130px;
+height: 25px;
+line-height: 25px;
+padding: 0 10px;
+}
+ 	</style>
+</html>

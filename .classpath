@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/mail.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-web-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-web-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE%202/libs/spring-webmvc-4.3.9.RELEASE-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-portlet-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-portlet-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-websocket-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-websocket-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-test-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-test-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-tx-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-tx-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jms-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jms-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-messaging-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-messaging-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-orm-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-orm-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-oxm-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-oxm-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-tomcat-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-tomcat-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jdbc-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jdbc-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-support-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-support-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-core-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-core-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-expression-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-expression-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aspects-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aspects-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aop-4.3.9.RELEASE-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aop-4.3.9.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-tomcat-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jms-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aspects-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-test-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-websocket-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-portlet-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-orm-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-web-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-messaging-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-oxm-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-support-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-jdbc-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-tx-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-context-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-expression-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-instrument-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-aop-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/spring-framework-4.3.9.RELEASE/libs/spring-core-4.3.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/commons-logging-1.2/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/mybatis-3.4.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/ognl-3.1.16.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/javassist-3.22.0-GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/asm-5.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/cglib-3.2.5.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/slf4j-log4j12-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/ant-1.9.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/ant-launcher-1.9.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/log4j-api-2.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/log4j-core-2.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mybatis-3.4.6/lib/log4j-1.2.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/zhouyuan/Downloads/apache-collections-commons-collections-3.1.jar.zip">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/ezmorph-1.0.4.jar.zip"/>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/commons-collections-3.2.2/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/zhouyuan/Downloads/未命名文件夹/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

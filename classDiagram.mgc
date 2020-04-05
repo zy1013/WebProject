@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="Controller.FriendController" x="81" y="345">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="Controller.RegisterController" x="58" y="423">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="Controller.ChannelController" x="444" y="177">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="Controller.RecommendController" x="567" y="353">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="Controller.UserController" x="58" y="57">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="Controller.LoginController" x="58" y="283">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>

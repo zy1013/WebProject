@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="com.mysql.jdbc.Driver" />
+				<property name="url" value="jdbc:mysql://127.0.0.1:3306/finalDesign" />
+				<property name="username" value="root" />
+				<property name="password" value="zhouyuan" />
+			</dataSource>
+		</environment>
+	</environments>
+
+<!-- 	<mappers>
+		// power by http://www.yiibai.com
+		<mapper resource="test/User.xml" />
+	</mappers> -->
+		<mappers>
+		<!-- // power by http://www.yiibai.com -->
+		<mapper class="Mapper.UserMapper"/>
+		<mapper class="Mapper.ChannelMapper"/>
+		<mapper class="Mapper.MovieMapper"/>
+	</mappers>
+</configuration>
